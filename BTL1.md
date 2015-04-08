@@ -1,4 +1,4 @@
-﻿#Bài tập 1
+﻿#Bài tập lớn 1
 
 Viết chương trình shell hoặc python lọc trong file log theo từ khóa và lưu vào 1 file text với 
 
